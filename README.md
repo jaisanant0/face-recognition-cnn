@@ -1,6 +1,8 @@
 # face-recognition-cnn
 This repository will help you to build face-recognition with the help of convolutional neural network.
 
+![gif](https://j.gifs.com/vlo1WX.gif)
+
 ## Getting strated 
 The scripts are based on Keras implementation of OpenFace. All the required files are provided with it. Just clone the repository.
 
@@ -24,3 +26,6 @@ python3 face-recognition.py
       
 Note :
 Running **face-recognition.py** and **create_embeddings.py** might take some time due to loading weights on the network. Once the weights are loaded, it will run smoothly.
+
+
+
